@@ -1,5 +1,9 @@
 ## Welcome to QuiViRR on GitHub
 
-### How to create an comment issue for an article
+This is a complementary living archive/space to the QuiViRR journal website
 
-### How to make a pull request for changes to an article
+### What content can you find here?
+
+### How do you create an comment issue for an article?
+
+### How to make a pull request for suggesting changes to an article?
