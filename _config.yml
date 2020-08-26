@@ -1,1 +1,22 @@
 theme: jekyll-theme-slate
+title: QuiViRR Guide
+description: QuiViRR (Qualitative Video Research Reports) journal
+URL: "https://quivirr.github.io/QUIVIRR-guide/"
+image: "/images/logo.png"
+markdown: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - contributing.md
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
