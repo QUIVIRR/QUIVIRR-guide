@@ -20,6 +20,6 @@ If you wish to suggest an explicit change to the text of an article (in markdown
 
 You can also fork the article's repository to your own account, make a change, commit and then make a pull request to the original repository.
 
-### How can I see previous releases (versions)of an article?
+### How can I see previous releases (versions) of an article?
 
 ### How can I see earlier changes to the article precisely?
