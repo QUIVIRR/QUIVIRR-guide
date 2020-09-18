@@ -1,10 +1,10 @@
 ## Welcome to QuiViRR on GitHub
 
-This is a complementary living archive/space to the QuiViRR journal website.
+This is a living archive/workspace complementary to the QuiViRR journal website.
 
 ### What content can you find here?
 
-On GitHub, you will find content that is version controlled and has pre- and/or post-publication comments or peer review. The official publication (versions) always resides on the OJS website, whereas if there is versionable content, then it is placed on GitHub in a public repository.
+On QuiViRR@GitHub, you will find content that is version controlled and has pre- and/or post-publication comments or peer review. The official publication (and release versions) always resides on the OJS website, whereas if there is versionable content, then it is placed on GitHub in its own public repository. A [list of article repositories](articles.md) is available.
 
 ### How do you create an issue for an article and comment on an issue?
 
