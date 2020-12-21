@@ -10,7 +10,11 @@ The changes to article content are natively tracked using what is called 'versio
 The official publication (and its versions) always resides on the OJS website, whereas if there is tracked content, then it is also placed on GitHub in its own public repository.
 A [list of article repositories](articles.md) is available.
 
-### How do you create an issue for an article and comment on an existing issue?
+### How to discuss QuiViRR on GitHub with the editors, author(s) and the community
+
+If you have a GitHub account, you can take part in multi-threaded discussions for each hosted article and for the help guide. For example, you can [discuss this help guide to QuiViRR on GitHub]https://github.com/QUIVIRR/QUIVIRR-guide/discussions). You can also discuss specific articles, which are published in the QuiViRR journal, but also hosted dynamically on GitHub, eg. the [Enhanced Data Sessions paper by Paul McIlvenny](https://github.com/QUIVIRR/Enhanced-Data-Sessions/discussions). You can read earlier posts and respond to them directly by commenting, or you can start a new discussion. If you do not have a GitHub account, then you can only read earlier posts by other contributors.
+
+### How to create an issue for an article and comment on an existing issue?
 
 If you have a GitHub account, you can create an `Issue` in GitHub using the `New issue` button (under `Issues`).
 Give as much information when you write your issue as possible to help the author(s) and editors.
